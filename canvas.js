@@ -46,10 +46,10 @@ let maxRadius = 40;
 // let minRadius = 2;
 let radius;
 let colorArray = [
-    '#27ae60',
-    '#2980b9',
-    '#e67e22',
-    '#8e44ad',
+    '#173753',
+    '#6DAEDB',
+    '#2892D7',
+    '#1B4353',
 ];
 
 window.addEventListener('mousemove', 
